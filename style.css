@@ -57,7 +57,7 @@ nav {
 }
 
 .slider {
-  background: url("/img/bg.jfif");
+  background: url("./img/bg.jfif");
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
   overflow: hidden;
   background-repeat: no-repeat;
@@ -392,7 +392,7 @@ label {
   padding: 20px 30px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  max-width: 400px;
+  max-width: 500px;
   width: 100%;
 }
 
